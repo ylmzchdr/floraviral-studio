@@ -1,0 +1,6 @@
+{
+  "name": "Tropik Bahçem - Viral Video & Satış Stüdyosu",
+  "description": "Yarasa orkidesi, maymun orkidesi, kundaktaki bebekler ve etçil bitki tohumları için TikTok & YouTube Shorts viral video stratejileri, hazır senaryolar ve Shopier satış hunisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
